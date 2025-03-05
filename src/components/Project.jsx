@@ -7,10 +7,10 @@ import {motion} from "framer-motion"
 const projectsData = [
   {
     image: image1,
-    title: "Delivery Service (fullstack)",
-    description: " A full-stack delivery service website built with Angular for the front-end and MongoDB for the back-end. The website offers a responsive, user friendly interface for browsing menus, placing orders, and tracking deliveries. Using APIs, I implemented features for creating, retrieving, and deleting order data. This project demonstrates my ability to integrate front-end and back-end technologies, providing a seamless experience for users while simplifying data management for admins.",
+    title: "Delivery Service (fullstack/ GitHub Link)",
+    description: " A full-stack delivery service website built with Angular and MongoDB for managing drivers, packages, and orders. I developed APIs for creating, retrieving, and deleting data, improving user experience and admin efficiency. This project strengthened my skills in full-stack development, API integration, and data management.",
     technologies: ["Angular","MongoDB"],
-    link: "https://northcotefishandchips.netlify.app"
+    link: "https://github.com/Calxide/DeliveryService"
   },
   {
     image: image2,
